@@ -1,0 +1,14 @@
+.carousel-item{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(190, 190, 190);
+}
+.check{
+    color: green;
+    font-size: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
